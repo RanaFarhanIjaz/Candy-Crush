@@ -2,11 +2,6 @@ Matrix Game
 Overview
 Matrix is a gem matching game implemented in C++ using SFML graphics library. Players swap adjacent gems to match three or more of the same type horizontally or vertically to score points.
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/matrix-game.git
 Install SFML:
 Follow SFML's installation guide to set up SFML on your system.
 Make sure to link SFML correctly with your IDE or build environment.
